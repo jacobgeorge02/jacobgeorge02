@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jacobgeorge02
-- 👀 I’m interested in ...
+- 👀 I’m interested in automation and learning more about OOP programming
 - 🌱 I’m currently learning C++ and OOP Princples at the University of Massachusetts Lowell
-- 💞️ I’m looking to collaborate on automation 
+- 💞️ I’m looking to collaborate on automation projects or anything related to robotics
 - 📫 How to reach me: jacob_george@student.uml.edu
 
 <!---
