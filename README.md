@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jacobgeorge02
+- 👋 Hi, I’m Jacob George
 - 👀 I’m interested in automation and learning more about OOP programming
 - 🌱 I’m currently learning C++ and OOP Princples at the University of Massachusetts Lowell
 - 💞️ I’m looking to collaborate on automation projects or anything related to robotics
